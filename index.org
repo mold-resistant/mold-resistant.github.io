@@ -1,0 +1,18 @@
+#+TITLE: Jared Cox
+#+AUTHOR: Jared Cox
+#+DESCRIPTION: Jared Cox - web developer, entrepreneur, business leader, consultant, legal cannabis seed seller and marijuana industry professional. Born and raised in the USA.
+#+KEYWORDS: Jared Cox, Jared Cox website, Jared Cox weed, Jared Cox cannabis, marijuana, cannabis, weed, jcox
+#+SUBJECT: All about Jared Cox
+#+OPTIONS: date:nil, toc:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+
+#+ATTR_HTML: :alt Jared Cox Weed Grower
+[[https://moldresistantstrains.com/wp-content/uploads/2016/03/profile.jpg]]
+
+* About Jared Cox
+
+My name is Jared Cox. I've been a web developer for the past 4 years, mostly working on my website [[https://moldresistantstrains.com/][Mold Resistant Strains]]. There you can find a wide range of productive [[https://moldresistantstrains.com/seed-banks/][marijuana seeds for sale]] online from top breeders. Note that I do not promote nor undertake in illegal activity, I'm a [[https://health.hawaii.gov/medicalcannabis/][State-licensed]] cannabis cultivator.
+
+My seed business is also taxed legally and done by the books. I offer consulting services for business clients in the marijuana seed industry. Contact me [[https://twitter.com/moldresistant][via Twitter]] or [[mailto:jared@moldresistantstrains.com][via email]] to get in touch. I can't promise I'll respond to all emails, but if you have a legitimate thing to talk about, I'm the dude.
+
+My website runs on [[https://wordpress.org/][WordPress]]. I am a supporter of the [[https://www.gnu.org/][GNU project]].
